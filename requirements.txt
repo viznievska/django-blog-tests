@@ -1,0 +1,7 @@
+pytest
+requests
+bs4
+webdriver-manager
+selenium
+splinter
+Pillow
